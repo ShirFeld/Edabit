@@ -2,7 +2,7 @@ package Edabit;
 
 public class binarySearch {
 
-    // יש מערך מסודר עם אפסים ואחדים וצריך למצוא את המיקום הראשון של ה1
+    // You need to find the first index of number 1
 
 
     public static int firstPlace(int[] arr){
