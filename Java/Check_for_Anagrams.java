@@ -1,4 +1,4 @@
-package Edabit;
+package Edabit.Java;
 
 
 public class Check_for_Anagrams {

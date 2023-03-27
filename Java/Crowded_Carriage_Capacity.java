@@ -1,4 +1,4 @@
-package Edabit;
+package Edabit.Java;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Edabit;
+package Edabit.Java;
 
 public class Find_the_Missing_Number {
 
