@@ -20,5 +20,8 @@ public class Recursion_Integer_Digits_Count {
         System.out.println(count(318));
         System.out.println(count(-92563));
         System.out.println(count(4666));
+        System.out.println(count(-314890));
+        System.out.println(count(654321));
+        System.out.println(count(638476));
     }
 }
